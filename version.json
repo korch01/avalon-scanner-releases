@@ -1,0 +1,9 @@
+{
+  "version": "0.0.0",
+  "published": "1970-01-01T00:00:00Z",
+  "notes": "Заглушка до первого релиза. Опубликуйте v1.0.0 из закрытого репозитория.",
+  "windows_amd64": {
+    "url": "https://github.com/korch01/avalon-scanner-releases/releases/download/v0.0.0/avalon-windows-portable-amd64.zip",
+    "sha256": ""
+  }
+}
