@@ -1,9 +1,9 @@
 {
-  "version": "1.0.2",
-  "published": "2026-05-18T03:58:10Z",
-  "notes": "Avalon Scanner 1.0.2 — иконки приложения, статус-бар, таблица, панель деталей по платам",
+  "version": "1.0.3",
+  "published": "2026-05-18T04:02:54Z",
+  "notes": "Avalon Scanner 1.0.3 — адаптивная таблица под размер окна",
   "windows_amd64": {
     "url": "https://github.com/korch01/avalon-scanner-releases/raw/main/dist/avalon-windows-portable-amd64.zip",
-    "sha256": "c522b22b43131cb6181194de8502ab052ddeacc9d4e01d683c501b5f6eeec55c"
+    "sha256": "566a80772e5e20ce0976e617f45502f3375909240cacd59c374dcf5e2fee865a"
   }
 }
