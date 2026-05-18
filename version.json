@@ -1,9 +1,9 @@
 {
-  "version": "1.0.0",
-  "published": "2026-05-16T12:12:52Z",
-  "notes": "Avalon Scanner 1.0.0 — Windows portable (fan columns, update check, macOS theme)",
+  "version": "1.0.2",
+  "published": "2026-05-18T03:58:10Z",
+  "notes": "Avalon Scanner 1.0.2 — иконки приложения, статус-бар, таблица, панель деталей по платам",
   "windows_amd64": {
     "url": "https://github.com/korch01/avalon-scanner-releases/raw/main/dist/avalon-windows-portable-amd64.zip",
-    "sha256": "aa30eac4b6400b42741d2c162f800fcf6bf3bbf22c38580bef40acc305dc19f4"
+    "sha256": "c522b22b43131cb6181194de8502ab052ddeacc9d4e01d683c501b5f6eeec55c"
   }
 }
