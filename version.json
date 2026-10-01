@@ -1,9 +1,9 @@
 {
-  "version": "1.0.3",
-  "published": "2026-05-18T04:02:54Z",
-  "notes": "Avalon Scanner 1.0.3 — адаптивная таблица под размер окна",
+  "version": "1.0.5",
+  "published": "2026-10-01T06:13:39Z",
+  "notes": "Avalon Scanner 1.0.5 \u2014 \u0438\u0441\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u044b \u0440\u0430\u0437\u0431\u043e\u0440 \u043e\u0442\u0432\u0435\u0442\u043e\u0432 cgminer \u0438 \u0431\u0435\u0441\u043a\u043e\u043d\u0435\u0447\u043d\u044b\u0439 \u0440\u043e\u0441\u0442 \u043e\u043a\u043d\u0430 GUI",
   "windows_amd64": {
-    "url": "https://github.com/korch01/avalon-scanner-releases/raw/main/dist/avalon-windows-portable-amd64.zip",
-    "sha256": "566a80772e5e20ce0976e617f45502f3375909240cacd59c374dcf5e2fee865a"
+    "url": "https://github.com/korch01/avalon-scanner-releases/releases/download/v1.0.5/avalon-windows-portable-amd64.zip",
+    "sha256": "1708cf858801090712a2c1ffb55097a9f1320e00c1cd71458d544e83585274d7"
   }
 }
