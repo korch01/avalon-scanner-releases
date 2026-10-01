@@ -1,9 +1,9 @@
 {
-  "version": "1.0.5",
-  "published": "2026-10-01T06:13:39Z",
-  "notes": "Avalon Scanner 1.0.5 \u2014 \u0438\u0441\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u044b \u0440\u0430\u0437\u0431\u043e\u0440 \u043e\u0442\u0432\u0435\u0442\u043e\u0432 cgminer \u0438 \u0431\u0435\u0441\u043a\u043e\u043d\u0435\u0447\u043d\u044b\u0439 \u0440\u043e\u0441\u0442 \u043e\u043a\u043d\u0430 GUI",
+  "version": "1.0.6",
+  "published": "2026-10-01T07:22:48Z",
+  "notes": "Avalon Scanner 1.0.6 \u2014 \u043c\u043e\u043d\u0438\u0442\u043e\u0440\u0438\u043d\u0433 \u043e\u0431\u0445\u043e\u0434\u0438\u0442 \u0432\u0441\u044e \u043f\u043e\u0434\u0441\u0435\u0442\u044c \u0438 \u0441\u0430\u043c \u043d\u0430\u0445\u043e\u0434\u0438\u0442 \u043d\u043e\u0432\u044b\u0435 \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u0430; \u0438\u0441\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u044b \u0447\u0435\u043a\u0431\u043e\u043a\u0441\u044b \u0438 \u0434\u0432\u043e\u0439\u043d\u043e\u0439 \u043a\u043b\u0438\u043a \u043f\u043e IP, \u0441\u043e\u0433\u043b\u0430\u0441\u043e\u0432\u0430\u043d\u044b \u0444\u043e\u0440\u043c\u0430\u0442\u044b \u0430\u0434\u0440\u0435\u0441\u043e\u0432",
   "windows_amd64": {
-    "url": "https://github.com/korch01/avalon-scanner-releases/releases/download/v1.0.5/avalon-windows-portable-amd64.zip",
-    "sha256": "1708cf858801090712a2c1ffb55097a9f1320e00c1cd71458d544e83585274d7"
+    "url": "https://github.com/korch01/avalon-scanner-releases/releases/download/v1.0.6/avalon-windows-portable-amd64.zip",
+    "sha256": "a173aa8d09e769d4b1a472a2162d7ab57a7ee96347b2dcd5897d8614e3479e64"
   }
 }
